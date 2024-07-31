@@ -220,9 +220,9 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import "../styles/login.css";
-import user_icon from '../assets/person.png';
-import email_icon from '../assets/email.png';
-import password_icon from '../assets/password.png';
+import user_icon from '/static/assets/person.png';
+import email_icon from '/static/assets/email.png';
+import password_icon from '/static/assets/password.png';
 import { useNavigate } from 'react-router-dom';
 import BASE_URL from './config';
 

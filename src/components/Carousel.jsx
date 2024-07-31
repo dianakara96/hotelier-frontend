@@ -244,8 +244,8 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import { Link } from 'react-router-dom';
 import ContactForm from './ContactForm';
-import carousel from '../assets/carousel-1.jpg';
-import carosel from '../assets/carousel-2.jpg';
+import carousel from '/static/assets/carousel-1.jpg';
+import carosel from '/static/assets/carousel-2.jpg';
 
 const carouselData = [
   {

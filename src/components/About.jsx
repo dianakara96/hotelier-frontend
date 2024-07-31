@@ -1,8 +1,8 @@
 import React from "react";
-import about_icon from '../assets/about-1.jpg';
-import abouts_icon from '../assets/about-2.jpg';
-import icon from '../assets/about-3.jpg';
-import abt from '../assets/about-4.jpg';
+import about_icon from '/static/assets/about-1.jpg';
+import abouts_icon from '/static/assets/about-2.jpg';
+import icon from '/static/assets/about-3.jpg';
+import abt from '/static/assets/about-4.jpg';
 import Carousel from './Carousel'; // Updated path to match the structure
 
 

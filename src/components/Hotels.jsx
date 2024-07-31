@@ -224,15 +224,15 @@ import BASE_URL from './config';
 
 // Sample static images and facilities
 const staticImages = [
-  'src/assets/room-1.jpg',
-  'src/assets/room-2.jpg',
-  'src/assets/room-3.jpg',
-  'src/assets/room-4.jpg',
-  'src/assets/room-5.jpg',
-  'src/assets/room-6.jpg',
-  'src/assets/room-1.jpg',
-  'src/assets/room-2.jpg',
-  'src/assets/room-3.jpg',
+  '/static/assets/room-1.jpg',
+  '/static/assets/room-2.jpg',
+  '/static/assets/room-3.jpg',
+  '/static/assets/room-4.jpg',
+  '/static/assets/room-5.jpg',
+  '/static/assets/room-6.jpg',
+  '/static/assets/room-1.jpg',
+  '/static/assets/room-2.jpg',
+  '/static/assets/room-3.jpg',
 ];
 
 const facilities = [

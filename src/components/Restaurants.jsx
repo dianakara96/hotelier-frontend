@@ -10,15 +10,15 @@ import BASE_URL from './config';
 
 // Sample static images
 const staticImages = [
-  '/assets/restaurant-1.jpg',
-  '/assets/restaurant-2.jpg',
-  '/assets/restaurant-3.jpg',
-  '/assets/restaurant-4.jpg',
-  '/assets/restaurant-5.jpg',
-  '/assets/restaurant-6.jpg',
-  '/assets/restaurant-1.jpg',
-  '/assets/restaurant-2.jpg',
-  '/assets/restaurant-3.jpg',
+  '/static/assets/restaurant-1.jpg',
+  '/static/assets/restaurant-2.jpg',
+  '/static/assets/restaurant-3.jpg',
+  '/static/assets/restaurant-4.jpg',
+  '/static/assets/restaurant-5.jpg',
+  '/static/assets/restaurant-6.jpg',
+  '/static/assets/restaurant-1.jpg',
+  '/static/assets/restaurant-2.jpg',
+  '/static/assets/restaurant-3.jpg',
 ];
 
 // Sample facility icons
