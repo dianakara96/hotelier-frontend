@@ -301,6 +301,7 @@ import 'tailwindcss/tailwind.css'; // Import Tailwind CSS
 import BASE_URL from './config';
 
 
+
 axios.defaults.xsrfCookieName = 'csrftoken';
 axios.defaults.xsrfHeaderName = 'X-CSRFToken';
 axios.defaults.withCredentials = true;
