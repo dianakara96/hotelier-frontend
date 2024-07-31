@@ -10,7 +10,7 @@ import BASE_URL from './config';
 
 // Sample static images
 const staticImages = [
-  'assets/restaurant-1.jpg',
+  'public/assets/restaurant-1.jpg',
   'assets/restaurant-2.jpg',
   'assets/restaurant-3.jpg',
   'assets/restaurant-4.jpg',
